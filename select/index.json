@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ラブコール",
   "base_artist": "BLUEGOATS",
-  "createdAt": "2026-03-19T15:55:04.796931Z",
+  "createdAt": "2026-04-01T11:33:01.758638Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,14 @@
       "artist": "Polkadot Stingray",
       "has_synced": true,
       "path": "select/06_ラブコール_-_Love_Call_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラブコール",
+      "artist": "Polkadot Stingray (ポルカドットスティングレイ)",
+      "has_synced": true,
+      "path": "select/07_ラブコール_Polkadot_Stingray_(ポルカドットスティングレイ).lrc"
     },
     {
       "id": "petitlyrics_1",
